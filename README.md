@@ -1,6 +1,6 @@
 - Desenvolvedor Back-end.
 
-- Blockchain, Back-end, Go, Java, TypeScript, asm e tudo que há de bom no mundo. <3
+- Blockchain, Back-end, Go, Java, TypeScript, C, asm e tudo que há de bom no mundo. <3
 - Entusiasta low-level - RISC lover, STM32 hobbyist
 
 
