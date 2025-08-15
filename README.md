@@ -1,4 +1,4 @@
-- Desenvolvedor Back-end.
+- Backend Engineer.
 
-- Blockchain, Go, Java, TypeScript, C, asm e tudo que há de bom no mundo. <3
-- Entusiasta low-level - RISC lover, STM32 hobbyist
+- Blockchain, Go, Rust, Java, TypeScript, C, x86asm...
+- Entusiasta low-level - RISC lover, STM32 hobbyist.
